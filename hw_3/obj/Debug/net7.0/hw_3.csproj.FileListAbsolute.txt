@@ -1,0 +1,15 @@
+C:\Users\Женя\Desktop\practice_c#\hw_3\bin\Debug\net7.0\hw_3.exe
+C:\Users\Женя\Desktop\practice_c#\hw_3\bin\Debug\net7.0\hw_3.deps.json
+C:\Users\Женя\Desktop\practice_c#\hw_3\bin\Debug\net7.0\hw_3.runtimeconfig.json
+C:\Users\Женя\Desktop\practice_c#\hw_3\bin\Debug\net7.0\hw_3.dll
+C:\Users\Женя\Desktop\practice_c#\hw_3\bin\Debug\net7.0\hw_3.pdb
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.AssemblyInfoInputs.cache
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.AssemblyInfo.cs
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.dll
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\refint\hw_3.dll
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.pdb
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\hw_3.genruntimeconfig.cache
+C:\Users\Женя\Desktop\practice_c#\hw_3\obj\Debug\net7.0\ref\hw_3.dll
