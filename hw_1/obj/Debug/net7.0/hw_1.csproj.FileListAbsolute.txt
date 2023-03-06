@@ -1,0 +1,15 @@
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.AssemblyInfoInputs.cache
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.AssemblyInfo.cs
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\practice_c#\hw_1\bin\Debug\net7.0\hw_1.exe
+C:\Users\Женя\Desktop\practice_c#\hw_1\bin\Debug\net7.0\hw_1.deps.json
+C:\Users\Женя\Desktop\practice_c#\hw_1\bin\Debug\net7.0\hw_1.runtimeconfig.json
+C:\Users\Женя\Desktop\practice_c#\hw_1\bin\Debug\net7.0\hw_1.dll
+C:\Users\Женя\Desktop\practice_c#\hw_1\bin\Debug\net7.0\hw_1.pdb
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.dll
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\refint\hw_1.dll
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.pdb
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\hw_1.genruntimeconfig.cache
+C:\Users\Женя\Desktop\practice_c#\hw_1\obj\Debug\net7.0\ref\hw_1.dll

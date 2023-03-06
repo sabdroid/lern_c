@@ -1,0 +1,15 @@
+C:\Users\Женя\Desktop\practice_c#\example003\bin\Debug\net7.0\example003.exe
+C:\Users\Женя\Desktop\practice_c#\example003\bin\Debug\net7.0\example003.deps.json
+C:\Users\Женя\Desktop\practice_c#\example003\bin\Debug\net7.0\example003.runtimeconfig.json
+C:\Users\Женя\Desktop\practice_c#\example003\bin\Debug\net7.0\example003.dll
+C:\Users\Женя\Desktop\practice_c#\example003\bin\Debug\net7.0\example003.pdb
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.AssemblyInfoInputs.cache
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.AssemblyInfo.cs
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.dll
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\refint\example003.dll
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.pdb
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\example003.genruntimeconfig.cache
+C:\Users\Женя\Desktop\practice_c#\example003\obj\Debug\net7.0\ref\example003.dll
