@@ -78,11 +78,11 @@ void FillArray(int[,] arr)
         {
             arr[i, j] = new Random().Next(0, 11);
 
-            if (arr[m, n] == arr[h, k])
+            if (arr[i, j] == arr[h, k])
             {
                 Console.Write($"Элемент с этим индексов -> {arr[h, k]}");
             }
-            else if (arr[m, n] != arr[h, k])
+            else if (arr[i, j] != arr[h, k])
             {
                 Console.WriteLine("эллемента нет");
             }
